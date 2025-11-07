@@ -1,0 +1,3 @@
+- RAG assistant based on LLaMa + ChromaDB
+- Supports downloading and querying PDF, DOCX and HTML documents
+- Stack : Python, LangChain, LLaMA 3, Ollama, RAG, Chroma
